@@ -50,8 +50,7 @@ Follow these steps to replicate the project locally.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/volvo-finance-analysis
-    cd volvo-finance-analysis
+    git clone https://github.com/Volvo-Finance-Data-Analysis-and-Power-BI-Dashboard
     ```
 
 2.  **Database Setup:**
